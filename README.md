@@ -1,2 +1,2 @@
-# HairSalon
-This repository is for a HairSalon webApp of  a family member
+# RestaurantNetworkApp
+This app aims to facilitate Restautant team management.   
